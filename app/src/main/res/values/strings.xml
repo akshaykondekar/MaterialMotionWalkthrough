@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MaterialMotionWalkthrough</string>
+    <string name="back">back</string>
+    <string name="next">next</string>
+
+    <string name="daily_reports">Daily Reports</string>
+    <string name="stay_updated">Stay Updated</string>
+    <string name="online_payment">Easy Payment</string>
+    <string name="daily_reports_details">Keep track of attendance, bus route, result and much more.</string>
+    <string name="stay_updated_details">Stay Updated with notice, homework and announcement given by teacher.</string>
+    <string name="onlinie_payment_details">Avoid unnecessary school visits with online payment and application.</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="walkthrough_image">walkthrough_image</string>
+</resources>
